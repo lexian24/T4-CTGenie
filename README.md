@@ -4,13 +4,12 @@
 
 ---
 
-## 🚀 Quick Start Guide (MVP/Demo)
+## 🚀 Quick Start Guide
 
 ### Prerequisites
 
 - **Python 3.11+** (required for backend)
 - **Node.js 16+** and **npm** (required for frontend)
-- **Git** (optional, for version control)
 
 ### Step 1: Environment Setup
 
@@ -182,19 +181,6 @@ VITE v5.0.0  ready in 242 ms
 - 50 pre-written clinical summaries
 - Instant load (no generation delay) - perfect for demos
 
-### 4. **Evidence-Based Guidelines**
-- NICE 2022 Guidelines
-- FIGO Classification System
-- Intervention algorithms for Category 2/3 patterns
-
-### 5. **Comprehensive Case Database**
-- **50 diverse cases** covering:
-  - Normal deliveries
-  - High-risk pregnancies (diabetes, hypertension, preeclampsia)
-  - Obstetric emergencies (abruption, cord prolapse, uterine rupture)
-  - Special circumstances (twins, breech, TOLAC/VBAC)
-  - Fetal complications (IUGR, SVT, meconium aspiration)
-
 ---
 
 ## 📁 Project Structure
@@ -221,7 +207,7 @@ datathon/
 │   │   │   ├── batch_001.json         # 20 cases
 │   │   │   ├── batch_002.json         # 15 cases
 │   │   │   └── batch_003.json         # 15 cases
-│   │   ├── similar_cases_database.json  # Pre-written summaries
+│   │   ├── similar_cases_database.json  # Pre-written
 │   │   ├── models/
 │   │   │   ├── xgboost_model.json     # Trained model
 │   │   │   └── scaler_v2.pkl          # Feature scaler
@@ -263,6 +249,12 @@ cd ctgenie/backend
 python main.py
 ```
 
+**Problem:** Logs not found
+```bash
+# You can manually create logs as directory at the root directory
+and create backend.log and frontend.log files in it
+```
+
 ### Frontend Issues
 
 **Problem:** Frontend won't start - "npm command not found"
@@ -295,31 +287,6 @@ lsof -ti:5173 | xargs kill -9
 **Problem:** "Similar cases not loading"
 - Ensure `similar_cases_database.json` exists in `ctgenie/data/`
 - Check backend startup logs for "Loaded hardcoded similar cases database"
-
----
-
-## 🎨 Demo/Presentation Tips
-
-### For Best Demo Experience:
-
-1. **Pre-load the application** before presenting
-2. **Showcase different case types:**
-   - **CASE00001**: Normal delivery (reassuring CTG)
-   - **CASE00023**: Chorioamnionitis emergency (pathological)
-   - **CASE00050**: Uterine rupture (critical emergency)
-   - **CASE00036**: Twin pregnancy (high-risk but normal)
-   - **CASE00040**: Fetal SVT (arrhythmia case)
-
-3. **Highlight key features:**
-   - Instant AI predictions with confidence scores
-   - SHAP explanations showing feature importance
-   - Pre-generated clinical summaries (instant load!)
-   - Diverse case database (50 realistic scenarios)
-
-4. **Click flow:**
-   - Dashboard → Click patient → Shows detailed analysis
-   - Scroll to "Similar Cases" → Pre-written summary appears
-   - Highlight 3 case studies with similarity scores
 
 ---
 
@@ -387,40 +354,6 @@ GET http://localhost:8000/guidelines/baseline_heart_rate
 
 ---
 
-## 🛠 Development
-
-### Regenerate Similar Cases Database
-
-If you need to regenerate the hardcoded summaries:
-
-```bash
-cd ctgenie/scripts
-python generate_hardcoded_case_studies.py
-```
-
-This will create a new `similar_cases_database.json` with pre-written summaries for all 50 cases.
-
----
-
-## 📄 License
-
-This is a demonstration/MVP project for clinical decision support research.
-
----
-
-## 👥 Authors
-
-Developed for datathon/medical AI demonstration purposes.
-
----
-
-## ⚠️ Disclaimer
-
-**This is a demonstration system for educational and research purposes only.**
-Not approved for clinical use. Always consult qualified healthcare professionals for medical decisions.
-
----
-
 ## 🎉 Quick Test
 
 After starting both servers, test the system:
@@ -437,7 +370,3 @@ After starting both servers, test the system:
    - ✅ Delivery outcomes
 
 **If all above appear → System is working perfectly! 🎉**
-
----
-
-**Ready for your presentation!** 🚀
