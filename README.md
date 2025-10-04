@@ -1,7 +1,7 @@
 # CTGenie - AI-Powered Clinical Decision Support System
 
 **AI-powered fetal monitoring system with 98.8% accuracy** for CTG (Cardiotocography) interpretation, providing real-time clinical decision support, similar case analysis, and evidence-based recommendations.
-
+**data.ipynb is the data processing and the model training and evaluation notebook.
 ---
 
 ## 🚀 Quick Start Guide
