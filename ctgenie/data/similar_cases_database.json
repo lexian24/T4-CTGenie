@@ -1,0 +1,402 @@
+{
+  "CASE00001": {
+    "similar_case_ids": [
+      "CASE00026",
+      "CASE00029",
+      "CASE00033"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 131.7 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 57.6 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.567/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>58ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.4 weeks"
+  },
+  "CASE00026": {
+    "similar_case_ids": [
+      "CASE00001",
+      "CASE00029",
+      "CASE00033"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 131.7 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 57.6 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.567/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>58ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.4 weeks"
+  },
+  "CASE00029": {
+    "similar_case_ids": [
+      "CASE00001",
+      "CASE00026",
+      "CASE00033"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 131.7 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 57.6 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.567/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>58ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.4 weeks"
+  },
+  "CASE00033": {
+    "similar_case_ids": [
+      "CASE00001",
+      "CASE00026",
+      "CASE00029"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 130.5 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 58.4 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.633/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>58ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.2 weeks"
+  },
+  "CASE00024": {
+    "similar_case_ids": [
+      "CASE00037",
+      "CASE00042",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 138.2 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 52.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 0.936/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Breech presentation\n- Complete breech\n- Previous shoulder dystocia\n- Previous cesarean section\n- Advanced maternal age\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>52ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.6 weeks"
+  },
+  "CASE00037": {
+    "similar_case_ids": [
+      "CASE00024",
+      "CASE00042",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 138.2 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 52.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 0.936/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Breech presentation\n- Complete breech\n- Previous shoulder dystocia\n- Previous cesarean section\n- Advanced maternal age\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>52ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.6 weeks"
+  },
+  "CASE00042": {
+    "similar_case_ids": [
+      "CASE00024",
+      "CASE00037",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 138.2 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 52.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 0.936/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Breech presentation\n- Complete breech\n- Previous shoulder dystocia\n- Previous cesarean section\n- Advanced maternal age\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>52ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.6 weeks"
+  },
+  "CASE00036": {
+    "similar_case_ids": [
+      "CASE00044",
+      "CASE00046",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 141.8 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 52.7 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 0.003/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Polyhydramnios\n- Type 1 diabetes mellitus\n- Macrosomia\n- Dichorionic diamniotic\n- Twin pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.0, 5-min: 9.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>53ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.8 weeks"
+  },
+  "CASE00044": {
+    "similar_case_ids": [
+      "CASE00036",
+      "CASE00046",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 141.8 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 52.7 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 0.003/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Polyhydramnios\n- Type 1 diabetes mellitus\n- Macrosomia\n- Dichorionic diamniotic\n- Twin pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.0, 5-min: 9.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>53ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.8 weeks"
+  },
+  "CASE00046": {
+    "similar_case_ids": [
+      "CASE00036",
+      "CASE00044",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 141.8 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 52.7 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 0.003/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Polyhydramnios\n- Type 1 diabetes mellitus\n- Macrosomia\n- Dichorionic diamniotic\n- Twin pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.0, 5-min: 9.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>53ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.8 weeks"
+  },
+  "CASE00041": {
+    "similar_case_ids": [
+      "CASE00049",
+      "CASE00031",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 136.5 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 60.1 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 1.270/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Grand multiparity\n- Precipitous labor\n- Previous postpartum hemorrhage\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Spontaneous vaginal delivery\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>60ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 39.8 weeks"
+  },
+  "CASE00049": {
+    "similar_case_ids": [
+      "CASE00041",
+      "CASE00031",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 136.5 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 60.1 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 1.270/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Grand multiparity\n- Precipitous labor\n- Previous postpartum hemorrhage\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Spontaneous vaginal delivery\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>60ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 39.8 weeks"
+  },
+  "CASE00031": {
+    "similar_case_ids": [
+      "CASE00041",
+      "CASE00049",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 136.5 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 60.1 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 1.270/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Grand multiparity\n- Precipitous labor\n- Previous postpartum hemorrhage\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Spontaneous vaginal delivery\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>60ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 39.8 weeks"
+  },
+  "CASE00002": {
+    "similar_case_ids": [
+      "CASE00022",
+      "CASE00025",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (2/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 139.1 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 36.2 ms (reduced but present)\n- **Average Accelerations**: 2.733/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Oligohydramnios\n- Post-term pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 7.3, 5-min: 9.3\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.7 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00022": {
+    "similar_case_ids": [
+      "CASE00002",
+      "CASE00025",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (2/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 139.1 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 36.2 ms (reduced but present)\n- **Average Accelerations**: 2.733/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Oligohydramnios\n- Post-term pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 7.3, 5-min: 9.3\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.7 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00025": {
+    "similar_case_ids": [
+      "CASE00002",
+      "CASE00022",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (2/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 139.1 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 36.2 ms (reduced but present)\n- **Average Accelerations**: 2.733/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Oligohydramnios\n- Post-term pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 7.3, 5-min: 9.3\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.7 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00027": {
+    "similar_case_ids": [
+      "CASE00038",
+      "CASE00047",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 149.3 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 33.2 ms (reduced but present)\n- **Average Accelerations**: 0.501/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Intrahepatic cholestasis of pregnancy\n- Failed induction\n- Chronic hypertension\n- Prolonged labor\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 7.0, 5-min: 9.0\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.6 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00038": {
+    "similar_case_ids": [
+      "CASE00027",
+      "CASE00047",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 149.3 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 33.2 ms (reduced but present)\n- **Average Accelerations**: 0.501/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Chronic hypertension\n- Intrahepatic cholestasis of pregnancy\n- Failed induction\n- Prolonged labor\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 7.0, 5-min: 9.0\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.6 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00047": {
+    "similar_case_ids": [
+      "CASE00027",
+      "CASE00038",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 149.3 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 33.2 ms (reduced but present)\n- **Average Accelerations**: 0.501/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Intrahepatic cholestasis of pregnancy\n- Failed induction\n- Chronic hypertension\n- Prolonged labor\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 7.0, 5-min: 9.0\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.6 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00030": {
+    "similar_case_ids": [
+      "CASE00034",
+      "CASE00040",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 170.4 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 33.8 ms (reduced but present)\n- **Average Accelerations**: 0.833/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Meconium-stained liquor\n- IUGR\n- Fetal supraventricular tachycardia\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Assisted vaginal delivery, Elective cesarean\n- **NICU Admissions**: 1/3 cases\n- **Average Apgar Scores**: 1-min: 7.0, 5-min: 8.7\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.4 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00034": {
+    "similar_case_ids": [
+      "CASE00030",
+      "CASE00040",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 170.4 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 33.8 ms (reduced but present)\n- **Average Accelerations**: 0.833/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Meconium-stained liquor\n- Fetal supraventricular tachycardia\n- IUGR\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Assisted vaginal delivery, Elective cesarean\n- **NICU Admissions**: 1/3 cases\n- **Average Apgar Scores**: 1-min: 7.0, 5-min: 8.7\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.4 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00040": {
+    "similar_case_ids": [
+      "CASE00030",
+      "CASE00034",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 170.4 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 33.8 ms (reduced but present)\n- **Average Accelerations**: 0.833/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Meconium-stained liquor\n- IUGR\n- Fetal supraventricular tachycardia\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Assisted vaginal delivery, Elective cesarean\n- **NICU Admissions**: 1/3 cases\n- **Average Apgar Scores**: 1-min: 7.0, 5-min: 8.7\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 39.4 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00043": {
+    "similar_case_ids": [
+      "CASE00048",
+      "CASE00004",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (2/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 138.7 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 39.2 ms (reduced but present)\n- **Average Accelerations**: 0.768/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Maternal hypotension\n- Epidural complications\n- Preterm premature rupture of membranes\n- Preterm labor\n\n### Outcomes & Management\n- **Delivery Methods**: Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 1/3 cases\n- **Average Apgar Scores**: 1-min: 7.7, 5-min: 9.0\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 38.2 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00048": {
+    "similar_case_ids": [
+      "CASE00043",
+      "CASE00004",
+      "CASE00016"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (2/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 138.7 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 39.2 ms (reduced but present)\n- **Average Accelerations**: 0.768/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Maternal hypotension\n- Epidural complications\n- Preterm premature rupture of membranes\n- Preterm labor\n\n### Outcomes & Management\n- **Delivery Methods**: Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 1/3 cases\n- **Average Apgar Scores**: 1-min: 7.7, 5-min: 9.0\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 38.2 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00004": {
+    "similar_case_ids": [
+      "CASE00043",
+      "CASE00048",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (2/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 138.7 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 39.2 ms (reduced but present)\n- **Average Accelerations**: 0.768/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Maternal hypotension\n- Epidural complications\n- Preterm premature rupture of membranes\n- Preterm labor\n\n### Outcomes & Management\n- **Delivery Methods**: Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 1/3 cases\n- **Average Apgar Scores**: 1-min: 7.7, 5-min: 9.0\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 38.2 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00003": {
+    "similar_case_ids": [
+      "CASE00023",
+      "CASE00028",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (2/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 135.4 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 28.2 ms (minimal to absent)\n- **Average Accelerations**: 2.267/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Suspected chorioamnionitis\n- Placental abruption\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Emergency cesarean\n- **NICU Admissions**: 2/3 cases (67%)\n- **Average Apgar Scores**: 1-min: 5.7, 5-min: 8.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 37.4 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00023": {
+    "similar_case_ids": [
+      "CASE00003",
+      "CASE00028",
+      "CASE00020"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (2/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 135.4 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 28.2 ms (minimal to absent)\n- **Average Accelerations**: 2.267/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Suspected chorioamnionitis\n- Placental abruption\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Emergency cesarean\n- **NICU Admissions**: 2/3 cases (67%)\n- **Average Apgar Scores**: 1-min: 5.7, 5-min: 8.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 37.4 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00028": {
+    "similar_case_ids": [
+      "CASE00003",
+      "CASE00023",
+      "CASE00020"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (2/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 135.4 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 28.2 ms (minimal to absent)\n- **Average Accelerations**: 2.267/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Suspected chorioamnionitis\n- Placental abruption\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Emergency cesarean\n- **NICU Admissions**: 2/3 cases (67%)\n- **Average Apgar Scores**: 1-min: 5.7, 5-min: 8.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 37.4 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00032": {
+    "similar_case_ids": [
+      "CASE00045",
+      "CASE00050",
+      "CASE00020"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (3/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 114.4 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 17.5 ms (minimal to absent)\n- **Average Accelerations**: 0.167/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Cord prolapse\n- Uterine rupture\n- Preeclampsia\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 3/3 cases (100%)\n- **Average Apgar Scores**: 1-min: 3.7, 5-min: 7.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 37.7 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00045": {
+    "similar_case_ids": [
+      "CASE00032",
+      "CASE00050",
+      "CASE00020"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (3/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 114.4 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 17.5 ms (minimal to absent)\n- **Average Accelerations**: 0.167/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Cord prolapse\n- Uterine rupture\n- Preeclampsia\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 3/3 cases (100%)\n- **Average Apgar Scores**: 1-min: 3.7, 5-min: 7.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 37.7 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00050": {
+    "similar_case_ids": [
+      "CASE00032",
+      "CASE00045",
+      "CASE00020"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (3/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 114.4 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 17.5 ms (minimal to absent)\n- **Average Accelerations**: 0.167/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Cord prolapse\n- Uterine rupture\n- Preeclampsia\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 3/3 cases (100%)\n- **Average Apgar Scores**: 1-min: 3.7, 5-min: 7.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 37.7 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00006": {
+    "similar_case_ids": [
+      "CASE00010",
+      "CASE00011",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 128.1 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 36.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 4.767/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Hypertension\n- Gestational diabetes\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>36ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 36.1 weeks"
+  },
+  "CASE00010": {
+    "similar_case_ids": [
+      "CASE00006",
+      "CASE00011",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 128.1 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 36.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 4.767/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Hypertension\n- Gestational diabetes\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>36ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 36.1 weeks"
+  },
+  "CASE00011": {
+    "similar_case_ids": [
+      "CASE00006",
+      "CASE00010",
+      "CASE00007"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 128.1 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 36.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 4.767/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Hypertension\n- Gestational diabetes\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>36ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 36.1 weeks"
+  },
+  "CASE00020": {
+    "similar_case_ids": [
+      "CASE00019",
+      "CASE00018",
+      "CASE00023"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (3/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 132.5 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 75.7 ms (minimal to absent)\n- **Average Accelerations**: 0.133/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Advanced maternal age\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 1/3 cases (33%)\n- **Average Apgar Scores**: 1-min: 4.7, 5-min: 7.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 36.8 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00007": {
+    "similar_case_ids": [
+      "CASE00004",
+      "CASE00001",
+      "CASE00014"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 127.1 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 50.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 1.967/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>50ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 37.8 weeks"
+  },
+  "CASE00016": {
+    "similar_case_ids": [
+      "CASE00017",
+      "CASE00022",
+      "CASE00025"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 147.9 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 46.0 ms (reduced but present)\n- **Average Accelerations**: 0.400/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Post-term pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal, Emergency cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 6.7, 5-min: 9.3\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 38.6 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00014": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 131.1 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 34.9 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.533/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Gestational diabetes\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>35ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.3 weeks"
+  },
+  "CASE00012": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 137.7 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 43.3 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 1.833/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>43ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 37.5 weeks"
+  },
+  "CASE00009": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 133.4 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 48.9 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.567/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Previous cesarean section\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>49ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 37.5 weeks"
+  },
+  "CASE00017": {
+    "similar_case_ids": [
+      "CASE00016",
+      "CASE00022",
+      "CASE00025"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Suspect (3/3 cases)\n- Category 2 (indeterminate) patterns requiring heightened surveillance\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 147.9 bpm (borderline concerning range)\n- **Average Variability (ASTV)**: 46.0 ms (reduced but present)\n- **Average Accelerations**: 0.400/sec (infrequent)\n- Variable decelerations often present\n\n### Common Risk Factors\n- Post-term pregnancy\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Assisted vaginal, Emergency cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 6.7, 5-min: 9.3\n\n### Key Clinical Insights\n- Category 2 patterns require intensive surveillance every 15-30 minutes\n- Early intervention with repositioning, hydration, oxygen often beneficial\n- Conservative intrauterine resuscitation measures should be attempted\n- Close reassessment essential - persistence warrants escalation\n- Average gestational age: 38.6 weeks\n- Clinical pearl: Timely intervention can prevent progression to Category 3"
+  },
+  "CASE00015": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 129.2 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 44.9 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 3.200/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>45ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.4 weeks"
+  },
+  "CASE00005": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 133.2 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 45.2 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.200/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Hypertension\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>45ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 37.2 weeks"
+  },
+  "CASE00019": {
+    "similar_case_ids": [
+      "CASE00020",
+      "CASE00018",
+      "CASE00023"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (3/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 132.5 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 75.7 ms (minimal to absent)\n- **Average Accelerations**: 0.133/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Advanced maternal age\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 1/3 cases (33%)\n- **Average Apgar Scores**: 1-min: 4.7, 5-min: 7.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 36.8 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00008": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 136.4 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 43.4 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 2.133/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>43ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.7 weeks"
+  },
+  "CASE00013": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 130.1 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 49.0 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 3.600/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Assisted vaginal, Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>49ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.2 weeks"
+  },
+  "CASE00018": {
+    "similar_case_ids": [
+      "CASE00020",
+      "CASE00019",
+      "CASE00023"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Pathological (3/3 cases)\n- Category 3 (abnormal) patterns - immediate action required\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 132.5 bpm (abnormal - bradycardia or tachycardia)\n- **Average Variability (ASTV)**: 75.7 ms (minimal to absent)\n- **Average Accelerations**: 0.133/sec (absent)\n- Severe recurrent or prolonged decelerations present\n\n### Common Risk Factors\n- Advanced maternal age\n\n### Outcomes & Management\n- **Delivery Methods**: Emergency cesarean\n- **NICU Admissions**: 1/3 cases (33%)\n- **Average Apgar Scores**: 1-min: 4.7, 5-min: 7.3\n\n### Key Clinical Insights\n- Category 3 patterns demand immediate action and preparation for expedited delivery\n- High rate of emergency interventions and NICU admissions reflects severity\n- Rapid recognition and response critical for optimizing outcomes\n- Decision-to-delivery interval should be minimized (<30 minutes ideal)\n- Average gestational age: 36.8 weeks\n- Clinical pearl: These patterns represent fetal decompensation - delivery often indicated"
+  },
+  "CASE00021": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 133.9 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 45.5 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 3.000/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Gestational diabetes\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>46ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.7 weeks"
+  },
+  "CASE00035": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 133.0 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 46.4 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 3.033/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Low-risk pregnancies\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 9.0, 5-min: 10.0\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>46ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.6 weeks"
+  },
+  "CASE00039": {
+    "similar_case_ids": [
+      "CASE00007",
+      "CASE00004",
+      "CASE00001"
+    ],
+    "summary": "## Clinical Case Summary Analysis (3 Similar Cases)\n\n### Classification Pattern\n- **Predominant Classification**: Normal (3/3 cases)\n- All demonstrate Category 1 (reassuring) CTG patterns with favorable outcomes\n\n### CTG Pattern Characteristics\n- **Average Baseline FHR**: 135.8 bpm (normal range 110-160 bpm)\n- **Average Variability (ASTV)**: 43.3 ms (excellent fetal oxygenation)\n- **Average Accelerations**: 1.834/sec (present and reassuring)\n- No significant decelerations observed across cases\n\n### Common Risk Factors\n- Maternal cardiac disease\n- Advanced maternal age\n- IVF conception\n\n### Outcomes & Management\n- **Delivery Methods**: Spontaneous vaginal, Vaginal delivery, Elective cesarean\n- **NICU Admissions**: 0/3 cases\n- **Average Apgar Scores**: 1-min: 8.7, 5-min: 9.7\n\n### Key Clinical Insights\n- These cases exemplify reassuring CTG patterns with excellent neonatal outcomes\n- High variability (>43ms) correlates strongly with favorable outcomes\n- Presence of accelerations indicates fetal well-being\n- Conservative management with routine monitoring appropriate\n- Average gestational age: 38.5 weeks"
+  }
+}

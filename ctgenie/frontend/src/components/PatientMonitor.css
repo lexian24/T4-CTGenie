@@ -1,0 +1,161 @@
+.patient-monitor {
+  background: linear-gradient(135deg, #1e2749 0%, #2a3763 100%);
+  border-radius: 12px;
+  padding: 1.25rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.patient-monitor:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+
+.patient-monitor.critical {
+  border-color: #ff5252;
+  box-shadow: 0 0 20px rgba(255, 82, 82, 0.3);
+}
+
+.patient-monitor.warning {
+  border-color: #ffc107;
+  box-shadow: 0 0 20px rgba(255, 193, 7, 0.3);
+}
+
+.patient-monitor.normal {
+  border-color: #4caf50;
+}
+
+/* Monitor Header */
+.monitor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.patient-id {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.risk-badge {
+  padding: 0.375rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.risk-badge.critical {
+  background: #ff5252;
+  color: #fff;
+}
+
+.risk-badge.warning {
+  background: #ffc107;
+  color: #000;
+}
+
+.risk-badge.normal {
+  background: #4caf50;
+  color: #fff;
+}
+
+/* Monitor Body */
+.monitor-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding: 1rem 0;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.vital-sign {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.vital-label {
+  font-size: 0.875rem;
+  color: #9fa8da;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.vital-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.vital-value.live-value {
+  position: relative;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.vital-value.live-value::after {
+  content: '';
+  position: absolute;
+  top: -2px;
+  right: -8px;
+  width: 6px;
+  height: 6px;
+  background: #4caf50;
+  border-radius: 50%;
+  animation: blink 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+
+/* Monitor Footer */
+.monitor-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.patient-info {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.875rem;
+  color: #c5cae9;
+}
+
+.view-details {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.view-details:hover {
+  background: rgba(255,255,255,0.2);
+  border-color: rgba(255,255,255,0.3);
+}

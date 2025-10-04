@@ -1,0 +1,272 @@
+[
+  {
+    "case_id": "CASE00021",
+    "demographics": {
+      "patient_id": "PT00021",
+      "age": 32,
+      "gestational_age_weeks": 39.2,
+      "gravida": 3,
+      "para": 2,
+      "risk_factors": ["Gestational diabetes"],
+      "admission_date": "2025-01-15"
+    },
+    "ctg_features": {
+      "AC": 3.5, "FM": 24.2, "UC": 3.1, "DL": 0.5, "DS": 0.0, "DP": 0.0, "DR": 0.0,
+      "LB": 138.5, "AC.1": 0.004, "FM.1": 0.035, "UC.1": 0.004, "DL.1": 0.001,
+      "DS.1": 0.0, "DP.1": 0.0, "ASTV": 52.3, "MSTV": 1.6, "ALTV": 11.2, "MLTV": 9.8,
+      "Width": 68.4, "Min": 95.2, "Max": 168.7, "Nmax": 3.8, "Nzeros": 0.3,
+      "Mode": 145.2, "Mean": 132.8, "Median": 138.5, "Variance": 18.4, "Tendency": 0.4,
+      "A": 0.5, "B": -0.8, "C": -0.6, "D": -0.9, "E": -1.0, "AD": -0.7, "DE": -0.5,
+      "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 4.2
+    },
+    "nsp_class": 1,
+    "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00021, a 32-year-old G3P2 with well-controlled gestational diabetes at 39.2 weeks gestation, presented in spontaneous labor. Baseline FHR 138 bpm with moderate variability (ASTV: 52ms). Tracing showed 3-4 accelerations per 20 minutes and good fetal reactivity. No concerning decelerations noted. Blood glucose levels maintained at 80-110 mg/dL throughout labor. Patient progressed well through first and second stages.",
+    "outcome": {
+      "delivery_mode": "Spontaneous vaginal",
+      "interventions": ["Continuous glucose monitoring", "Standard CTG monitoring"],
+      "apgar_1min": 9,
+      "apgar_5min": 9,
+      "birth_weight_grams": 3680,
+      "nicu_admission": false,
+      "maternal_complications": [],
+      "neonatal_complications": []
+    },
+    "timestamp": "2025-01-15T08:30:00",
+    "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00022",
+    "demographics": {
+      "patient_id": "PT00022",
+      "age": 28,
+      "gestational_age_weeks": 40.8,
+      "gravida": 2,
+      "para": 1,
+      "risk_factors": ["Post-term pregnancy"],
+      "admission_date": "2025-02-20"
+    },
+    "ctg_features": {
+      "AC": 1.2, "FM": 12.5, "UC": 4.8, "DL": 2.3, "DS": 0.0, "DP": 0.2, "DR": 0.0,
+      "LB": 142.3, "AC.1": 0.002, "FM.1": 0.018, "UC.1": 0.006, "DL.1": 0.003,
+      "DS.1": 0.0, "DP.1": 0.0, "ASTV": 38.5, "MSTV": 1.1, "ALTV": 8.2, "MLTV": 6.5,
+      "Width": 52.1, "Min": 112.4, "Max": 165.8, "Nmax": 4.2, "Nzeros": 0.4,
+      "Mode": 148.3, "Mean": 138.7, "Median": 142.3, "Variance": 22.6, "Tendency": 0.1,
+      "A": -0.3, "B": -0.5, "C": -0.8, "D": -0.7, "E": -0.9, "AD": -0.6, "DE": -0.8,
+      "LD": -0.9, "FS": -1.0, "SUSP": 0.2, "CLASS": 6.8
+    },
+    "nsp_class": 2,
+    "nsp_label": "Suspect",
+    "clinical_narrative": "Patient PT00022, a 28-year-old G2P1 at 40+6 weeks gestation, presented for induction of labor due to post-term status. Initial CTG showed baseline FHR of 142 bpm with slightly reduced variability (ASTV: 38ms). Occasional variable decelerations noted with uterine contractions, resolving quickly. Amniotic fluid index borderline low at 6.5cm. Conservative management with maternal positioning and IV hydration initiated. Fetal scalp stimulation elicited reassuring acceleration. Decision made for close observation with continuous monitoring.",
+    "outcome": {
+      "delivery_mode": "Assisted vaginal",
+      "interventions": ["Induction with oxytocin", "Continuous monitoring", "Maternal oxygen therapy", "Position changes"],
+      "apgar_1min": 7,
+      "apgar_5min": 9,
+      "birth_weight_grams": 3850,
+      "nicu_admission": false,
+      "maternal_complications": [],
+      "neonatal_complications": ["Transient tachypnea"]
+    },
+    "timestamp": "2025-02-20T14:20:00",
+    "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00023",
+    "demographics": {
+      "patient_id": "PT00023",
+      "age": 21,
+      "gestational_age_weeks": 38.6,
+      "gravida": 1,
+      "para": 0,
+      "risk_factors": ["Suspected chorioamnionitis"],
+      "admission_date": "2025-03-10"
+    },
+    "ctg_features": {
+      "AC": 0.2, "FM": 5.1, "UC": 5.2, "DL": 3.8, "DS": 0.4, "DP": 0.8, "DR": 0.0,
+      "LB": 168.2, "AC.1": 0.001, "FM.1": 0.008, "UC.1": 0.007, "DL.1": 0.005,
+      "DS.1": 0.001, "DP.1": 0.002, "ASTV": 22.1, "MSTV": 0.8, "ALTV": 4.2, "MLTV": 3.1,
+      "Width": 42.3, "Min": 148.5, "Max": 185.6, "Nmax": 8.7, "Nzeros": 0.5,
+      "Mode": 172.4, "Mean": 165.3, "Median": 168.2, "Variance": 35.8, "Tendency": -0.3,
+      "A": -1.0, "B": -1.0, "C": -1.0, "D": -0.4, "E": 0.3, "AD": -0.9, "DE": -0.6,
+      "LD": 0.4, "FS": -0.5, "SUSP": 0.8, "CLASS": 9.2
+    },
+    "nsp_class": 3,
+    "nsp_label": "Pathological",
+    "clinical_narrative": "Patient PT00023, a 21-year-old primigravida at 38.6 weeks, presented with fever (38.5°C), maternal tachycardia, and uterine tenderness suggestive of chorioamnionitis. CTG revealed concerning fetal tachycardia with baseline of 168 bpm and reduced variability (ASTV: 22ms). Minimal accelerations present. Late decelerations noted with several contractions. Laboratory work showed elevated WBC 18,000 and CRP 45. Given high suspicion of intrauterine infection with non-reassuring fetal status, decision made for expedited delivery.",
+    "outcome": {
+      "delivery_mode": "Emergency cesarean",
+      "interventions": ["IV antibiotics (ampicillin + gentamicin)", "Maternal oxygen therapy", "Continuous monitoring", "Antipyretics"],
+      "apgar_1min": 6,
+      "apgar_5min": 8,
+      "birth_weight_grams": 3150,
+      "nicu_admission": true,
+      "maternal_complications": ["Chorioamnionitis"],
+      "neonatal_complications": ["Early-onset sepsis ruled out", "Observation for 48h"]
+    },
+    "timestamp": "2025-03-10T22:45:00",
+    "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00024",
+    "demographics": {
+      "patient_id": "PT00024",
+      "age": 37,
+      "gestational_age_weeks": 36.9,
+      "gravida": 5,
+      "para": 3,
+      "risk_factors": ["Advanced maternal age", "Previous cesarean section"],
+      "admission_date": "2025-04-05"
+    },
+    "ctg_features": {
+      "AC": 2.8, "FM": 18.4, "UC": 2.9, "DL": 1.1, "DS": 0.0, "DP": 0.0, "DR": 0.0,
+      "LB": 134.7, "AC.1": 0.003, "FM.1": 0.025, "UC.1": 0.004, "DL.1": 0.002,
+      "DS.1": 0.0, "DP.1": 0.0, "ASTV": 48.9, "MSTV": 1.5, "ALTV": 10.1, "MLTV": 8.7,
+      "Width": 61.3, "Min": 102.8, "Max": 162.4, "Nmax": 3.5, "Nzeros": 0.25,
+      "Mode": 141.2, "Mean": 131.5, "Median": 134.7, "Variance": 19.2, "Tendency": 0.3,
+      "A": 0.2, "B": -0.6, "C": -0.7, "D": -0.8, "E": -1.0, "AD": -0.5, "DE": -0.7,
+      "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 3.9
+    },
+    "nsp_class": 1,
+    "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00024, a 37-year-old G5P3 with history of one prior cesarean, presented at 36.9 weeks in spontaneous labor. Trial of labor after cesarean (TOLAC) initiated with appropriate counseling. CTG demonstrated reassuring baseline FHR of 135 bpm with good variability (ASTV: 49ms). Multiple accelerations present, indicating fetal well-being. No concerning decelerations observed. Patient progressed steadily through labor with adequate uterine contractions. Continuous monitoring maintained throughout labor. Successful vaginal birth after cesarean (VBAC) achieved.",
+    "outcome": {
+      "delivery_mode": "Spontaneous vaginal",
+      "interventions": ["TOLAC protocol", "Continuous monitoring", "Active management of third stage"],
+      "apgar_1min": 9,
+      "apgar_5min": 10,
+      "birth_weight_grams": 3210,
+      "nicu_admission": false,
+      "maternal_complications": [],
+      "neonatal_complications": []
+    },
+    "timestamp": "2025-04-05T16:30:00",
+    "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00025",
+    "demographics": {
+      "patient_id": "PT00025",
+      "age": 25,
+      "gestational_age_weeks": 41.2,
+      "gravida": 2,
+      "para": 1,
+      "risk_factors": ["Oligohydramnios"],
+      "admission_date": "2025-05-12"
+    },
+    "ctg_features": {
+      "AC": 0.8, "FM": 8.2, "UC": 5.5, "DL": 3.2, "DS": 0.1, "DP": 0.5, "DR": 0.0,
+      "LB": 145.8, "AC.1": 0.001, "FM.1": 0.012, "UC.1": 0.007, "DL.1": 0.004,
+      "DS.1": 0.0, "DP.1": 0.001, "ASTV": 32.6, "MSTV": 0.9, "ALTV": 6.8, "MLTV": 5.2,
+      "Width": 48.7, "Min": 118.4, "Max": 172.3, "Nmax": 5.8, "Nzeros": 0.45,
+      "Mode": 151.2, "Mean": 142.8, "Median": 145.8, "Variance": 28.4, "Tendency": -0.1,
+      "A": -0.6, "B": -0.7, "C": -0.9, "D": -0.5, "E": -0.8, "AD": -0.8, "DE": -0.7,
+      "LD": -0.4, "FS": -0.8, "SUSP": 0.5, "CLASS": 7.6
+    },
+    "nsp_class": 2,
+    "nsp_label": "Suspect",
+    "clinical_narrative": "Patient PT00025, a 25-year-old G2P1 at 41+1 weeks with oligohydramnios (AFI 4.2cm), admitted for induction of labor. Initial CTG showed baseline FHR 146 bpm with borderline variability (ASTV: 33ms). Variable decelerations present, likely due to cord compression secondary to low amniotic fluid. Fetal movements reduced. Amnioinfusion considered. Conservative measures including left lateral positioning implemented. Decelerations became more frequent, concerning for worsening cord compression. Given post-term status and oligohydramnios with equivocal CTG, decision made for assisted delivery.",
+    "outcome": {
+      "delivery_mode": "Assisted vaginal",
+      "interventions": ["Induction with prostaglandins", "Amnioinfusion", "Position changes", "Continuous monitoring"],
+      "apgar_1min": 7,
+      "apgar_5min": 9,
+      "birth_weight_grams": 3520,
+      "nicu_admission": false,
+      "maternal_complications": [],
+      "neonatal_complications": []
+    },
+    "timestamp": "2025-05-12T11:15:00",
+    "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00026",
+    "demographics": {"patient_id": "PT00026", "age": 29, "gestational_age_weeks": 38.4, "gravida": 2, "para": 1, "risk_factors": ["None"], "admission_date": "2025-06-18"},
+    "ctg_features": {"AC": 4.1, "FM": 28.3, "UC": 2.8, "DL": 0.3, "DS": 0.0, "DP": 0.0, "DR": 0.0, "LB": 136.2, "AC.1": 0.005, "FM.1": 0.042, "UC.1": 0.003, "DL.1": 0.001, "DS.1": 0.0, "DP.1": 0.0, "ASTV": 55.7, "MSTV": 1.8, "ALTV": 12.4, "MLTV": 10.2, "Width": 71.5, "Min": 98.3, "Max": 165.4, "Nmax": 3.2, "Nzeros": 0.2, "Mode": 143.8, "Mean": 133.6, "Median": 136.2, "Variance": 16.8, "Tendency": 0.5, "A": 0.7, "B": -0.5, "C": -0.6, "D": -0.9, "E": -1.0, "AD": -0.4, "DE": -0.6, "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 3.5},
+    "nsp_class": 1, "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00026, a 29-year-old G2P1 at 38.4 weeks gestation, presented in active labor. CTG showed excellent baseline FHR of 136 bpm with high variability (ASTV: 56ms). Frequent accelerations present (4 per 20min), demonstrating robust fetal reactivity. Uterine contractions regular and efficient. No decelerations noted throughout labor. Patient progressed rapidly through both stages of labor with excellent maternal effort.",
+    "outcome": {"delivery_mode": "Spontaneous vaginal", "interventions": ["Standard monitoring"], "apgar_1min": 9, "apgar_5min": 10, "birth_weight_grams": 3420, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2025-06-18T09:20:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00027",
+    "demographics": {"patient_id": "PT00027", "age": 33, "gestational_age_weeks": 39.8, "gravida": 4, "para": 2, "risk_factors": ["Chronic hypertension"], "admission_date": "2025-07-22"},
+    "ctg_features": {"AC": 1.5, "FM": 10.8, "UC": 4.2, "DL": 2.8, "DS": 0.2, "DP": 0.3, "DR": 0.0, "LB": 152.4, "AC.1": 0.002, "FM.1": 0.015, "UC.1": 0.005, "DL.1": 0.003, "DS.1": 0.001, "DP.1": 0.001, "ASTV": 28.9, "MSTV": 0.7, "ALTV": 5.6, "MLTV": 4.3, "Width": 45.8, "Min": 128.6, "Max": 178.2, "Nmax": 6.5, "Nzeros": 0.5, "Mode": 158.3, "Mean": 148.7, "Median": 152.4, "Variance": 32.1, "Tendency": -0.2, "A": -0.8, "B": -0.9, "C": -1.0, "D": -0.3, "E": -0.7, "AD": -0.9, "DE": -0.8, "LD": -0.2, "FS": -0.7, "SUSP": 0.6, "CLASS": 8.4},
+    "nsp_class": 2, "nsp_label": "Suspect",
+    "clinical_narrative": "Patient PT00027, a 33-year-old G4P2 with chronic hypertension on labetalol, presented at 39.8 weeks for induction. CTG revealed borderline tachycardia with baseline 152 bpm and reduced variability (ASTV: 29ms). Occasional late decelerations observed with stronger contractions. Blood pressure well-controlled at 135/85. Fetal scalp stimulation performed showing modest response. Given maternal hypertension history and Category 2 tracing, close surveillance maintained with plan for expedited delivery if pattern persists.",
+    "outcome": {"delivery_mode": "Emergency cesarean", "interventions": ["Antihypertensive therapy", "Continuous monitoring", "Maternal oxygen", "Position changes"], "apgar_1min": 7, "apgar_5min": 9, "birth_weight_grams": 3280, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2025-07-22T13:40:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00028",
+    "demographics": {"patient_id": "PT00028", "age": 22, "gestational_age_weeks": 37.2, "gravida": 1, "para": 0, "risk_factors": ["Placental abruption"], "admission_date": "2025-08-14"},
+    "ctg_features": {"AC": 0.0, "FM": 2.1, "UC": 6.8, "DL": 5.2, "DS": 1.2, "DP": 2.1, "DR": 0.0, "LB": 98.3, "AC.1": 0.0, "FM.1": 0.003, "UC.1": 0.009, "DL.1": 0.007, "DS.1": 0.002, "DP.1": 0.003, "ASTV": 12.4, "MSTV": 0.3, "ALTV": 2.1, "MLTV": 1.8, "Width": 28.3, "Min": 82.5, "Max": 118.6, "Nmax": 11.2, "Nzeros": 0.8, "Mode": 102.7, "Mean": 95.4, "Median": 98.3, "Variance": 48.6, "Tendency": -0.7, "A": -1.0, "B": -1.0, "C": -1.0, "D": 0.2, "E": 0.6, "AD": -0.3, "DE": 0.1, "LD": 0.8, "FS": 0.4, "SUSP": 0.9, "CLASS": 9.8},
+    "nsp_class": 3, "nsp_label": "Pathological",
+    "clinical_narrative": "Patient PT00028, a 22-year-old primigravida at 37.2 weeks, presented emergently with severe abdominal pain and vaginal bleeding. Clinical signs consistent with placental abruption. CTG showed severe fetal bradycardia with baseline 98 bpm, minimal variability (ASTV: 12ms), absent accelerations, and severe repetitive late decelerations. Fetal movements markedly reduced. Maternal vital signs showed tachycardia and hypotension. Immediate preparation for emergency cesarean delivery. Blood products crossmatched. Neonatology team alerted.",
+    "outcome": {"delivery_mode": "Emergency cesarean", "interventions": ["Emergency surgery", "Blood transfusion", "IV resuscitation", "Continuous monitoring"], "apgar_1min": 3, "apgar_5min": 7, "birth_weight_grams": 2880, "nicu_admission": true, "maternal_complications": ["Hemorrhage", "Blood transfusion required"], "neonatal_complications": ["Respiratory distress", "Hypoxic-ischemic encephalopathy grade 1"]},
+    "timestamp": "2025-08-14T02:15:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00029",
+    "demographics": {"patient_id": "PT00029", "age": 31, "gestational_age_weeks": 40.2, "gravida": 3, "para": 2, "risk_factors": ["None"], "admission_date": "2025-09-05"},
+    "ctg_features": {"AC": 3.2, "FM": 21.5, "UC": 3.5, "DL": 0.8, "DS": 0.0, "DP": 0.0, "DR": 0.0, "LB": 140.8, "AC.1": 0.004, "FM.1": 0.032, "UC.1": 0.004, "DL.1": 0.001, "DS.1": 0.0, "DP.1": 0.0, "ASTV": 51.2, "MSTV": 1.7, "ALTV": 11.8, "MLTV": 9.5, "Width": 66.3, "Min": 105.2, "Max": 168.9, "Nmax": 3.6, "Nzeros": 0.28, "Mode": 147.5, "Mean": 136.2, "Median": 140.8, "Variance": 17.9, "Tendency": 0.4, "A": 0.6, "B": -0.7, "C": -0.7, "D": -0.9, "E": -1.0, "AD": -0.5, "DE": -0.6, "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 4.0},
+    "nsp_class": 1, "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00029, a 31-year-old G3P2 at 40.2 weeks gestation, admitted in established labor. Multiparous patient with two prior uncomplicated vaginal deliveries. CTG demonstrated reassuring baseline FHR of 141 bpm with good variability (ASTV: 51ms). Multiple accelerations present with fetal movement. No significant decelerations noted. Labor progressed rapidly due to multiparous status. Delivery anticipated to be straightforward.",
+    "outcome": {"delivery_mode": "Spontaneous vaginal", "interventions": ["Standard monitoring"], "apgar_1min": 9, "apgar_5min": 10, "birth_weight_grams": 3590, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2025-09-05T18:55:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00030",
+    "demographics": {"patient_id": "PT00030", "age": 26, "gestational_age_weeks": 38.9, "gravida": 2, "para": 1, "risk_factors": ["IUGR"], "admission_date": "2025-10-10"},
+    "ctg_features": {"AC": 1.1, "FM": 9.4, "UC": 4.6, "DL": 2.6, "DS": 0.0, "DP": 0.4, "DR": 0.0, "LB": 148.6, "AC.1": 0.002, "FM.1": 0.014, "UC.1": 0.006, "DL.1": 0.003, "DS.1": 0.0, "DP.1": 0.001, "ASTV": 35.8, "MSTV": 1.0, "ALTV": 7.2, "MLTV": 5.8, "Width": 49.6, "Min": 121.3, "Max": 174.8, "Nmax": 5.2, "Nzeros": 0.42, "Mode": 154.2, "Mean": 144.8, "Median": 148.6, "Variance": 26.7, "Tendency": -0.05, "A": -0.5, "B": -0.7, "C": -0.9, "D": -0.6, "E": -0.8, "AD": -0.8, "DE": -0.7, "LD": -0.5, "FS": -0.9, "SUSP": 0.4, "CLASS": 7.2},
+    "nsp_class": 2, "nsp_label": "Suspect",
+    "clinical_narrative": "Patient PT00030, a 26-year-old G2P1 at 38.9 weeks with intrauterine growth restriction (IUGR), admitted for induction and close monitoring. Estimated fetal weight 2400g (5th percentile). CTG showed baseline FHR 149 bpm with borderline reduced variability (ASTV: 36ms). Variable decelerations present intermittently. Umbilical artery Doppler showed elevated resistance. Given IUGR with Category 2 CTG pattern, decision made for continuous monitoring with low threshold for operative delivery.",
+    "outcome": {"delivery_mode": "Elective cesarean", "interventions": ["Continuous monitoring", "Growth scan", "Doppler studies", "Pediatric consultation"], "apgar_1min": 8, "apgar_5min": 9, "birth_weight_grams": 2420, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": ["SGA monitoring"]},
+    "timestamp": "2025-10-10T10:30:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00031",
+    "demographics": {"patient_id": "PT00031", "age": 35, "gestational_age_weeks": 39.5, "gravida": 4, "para": 3, "risk_factors": ["None"], "admission_date": "2025-11-03"},
+    "ctg_features": {"AC": 3.8, "FM": 26.1, "UC": 3.2, "DL": 0.4, "DS": 0.0, "DP": 0.0, "DR": 0.0, "LB": 132.4, "AC.1": 0.005, "FM.1": 0.038, "UC.1": 0.004, "DL.1": 0.001, "DS.1": 0.0, "DP.1": 0.0, "ASTV": 58.3, "MSTV": 1.9, "ALTV": 13.2, "MLTV": 11.1, "Width": 74.2, "Min": 92.8, "Max": 162.1, "Nmax": 3.1, "Nzeros": 0.18, "Mode": 139.6, "Mean": 129.5, "Median": 132.4, "Variance": 15.3, "Tendency": 0.6, "A": 0.8, "B": -0.4, "C": -0.5, "D": -0.9, "E": -1.0, "AD": -0.3, "DE": -0.5, "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 3.2},
+    "nsp_class": 1, "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00031, a 35-year-old G4P3 grand multipara at 39.5 weeks, presented in early labor. Excellent CTG tracing with baseline FHR 132 bpm and high variability (ASTV: 58ms). Frequent accelerations demonstrating excellent fetal reserve. No decelerations observed. Given multiparous status, rapid labor progression anticipated. Continuous monitoring maintained due to grand multiparity, though fetal status remained reassuring throughout.",
+    "outcome": {"delivery_mode": "Spontaneous vaginal", "interventions": ["Standard monitoring", "Active third stage management"], "apgar_1min": 9, "apgar_5min": 10, "birth_weight_grams": 3750, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2025-11-03T21:10:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00032",
+    "demographics": {"patient_id": "PT00032", "age": 24, "gestational_age_weeks": 36.5, "gravida": 2, "para": 0, "risk_factors": ["Preeclampsia"], "admission_date": "2025-12-08"},
+    "ctg_features": {"AC": 0.5, "FM": 6.8, "UC": 5.1, "DL": 3.5, "DS": 0.3, "DP": 1.2, "DR": 0.0, "LB": 162.7, "AC.1": 0.001, "FM.1": 0.010, "UC.1": 0.007, "DL.1": 0.005, "DS.1": 0.001, "DP.1": 0.002, "ASTV": 19.8, "MSTV": 0.6, "ALTV": 3.8, "MLTV": 2.9, "Width": 38.5, "Min": 142.8, "Max": 188.4, "Nmax": 9.2, "Nzeros": 0.6, "Mode": 168.9, "Mean": 160.2, "Median": 162.7, "Variance": 38.4, "Tendency": -0.4, "A": -1.0, "B": -1.0, "C": -1.0, "D": -0.2, "E": 0.4, "AD": -0.9, "DE": -0.5, "LD": 0.5, "FS": -0.3, "SUSP": 0.9, "CLASS": 9.5},
+    "nsp_class": 3, "nsp_label": "Pathological",
+    "clinical_narrative": "Patient PT00032, a 24-year-old G2P0 at 36.5 weeks with severe preeclampsia, presented with BP 168/110, proteinuria 3+, and headache. CTG showed concerning fetal tachycardia baseline 163 bpm with significantly reduced variability (ASTV: 20ms). Late and prolonged decelerations present. Minimal fetal movements. Laboratory results showed elevated liver enzymes and low platelets (HELLP syndrome developing). Given maternal condition and pathological CTG, immediate delivery indicated. Magnesium sulfate initiated for seizure prophylaxis.",
+    "outcome": {"delivery_mode": "Emergency cesarean", "interventions": ["Magnesium sulfate", "Antihypertensives", "Continuous monitoring", "ICU level care"], "apgar_1min": 5, "apgar_5min": 8, "birth_weight_grams": 2580, "nicu_admission": true, "maternal_complications": ["Severe preeclampsia", "HELLP syndrome"], "neonatal_complications": ["Prematurity", "Respiratory support required"]},
+    "timestamp": "2025-12-08T04:25:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00033",
+    "demographics": {"patient_id": "PT00033", "age": 30, "gestational_age_weeks": 39.7, "gravida": 3, "para": 2, "risk_factors": ["None"], "admission_date": "2025-12-20"},
+    "ctg_features": {"AC": 3.4, "FM": 23.8, "UC": 3.3, "DL": 0.6, "DS": 0.0, "DP": 0.0, "DR": 0.0, "LB": 137.1, "AC.1": 0.004, "FM.1": 0.035, "UC.1": 0.004, "DL.1": 0.001, "DS.1": 0.0, "DP.1": 0.0, "ASTV": 53.6, "MSTV": 1.8, "ALTV": 12.1, "MLTV": 10.3, "Width": 69.7, "Min": 98.5, "Max": 166.2, "Nmax": 3.4, "Nzeros": 0.22, "Mode": 144.8, "Mean": 134.2, "Median": 137.1, "Variance": 17.2, "Tendency": 0.5, "A": 0.7, "B": -0.6, "C": -0.6, "D": -0.9, "E": -1.0, "AD": -0.4, "DE": -0.6, "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 3.7},
+    "nsp_class": 1, "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00033, a 30-year-old G3P2 at 39.7 weeks gestation, presented with spontaneous rupture of membranes and regular contractions. CTG demonstrated reassuring baseline FHR of 137 bpm with excellent variability (ASTV: 54ms). Multiple accelerations present indicating healthy fetal status. No concerning decelerations. Clear amniotic fluid noted. Labor progressing normally. Patient comfortable with epidural analgesia. Anticipated uncomplicated delivery based on obstetric history and current fetal status.",
+    "outcome": {"delivery_mode": "Spontaneous vaginal", "interventions": ["Standard monitoring", "Epidural analgesia"], "apgar_1min": 9, "apgar_5min": 10, "birth_weight_grams": 3480, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2025-12-20T15:45:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00034",
+    "demographics": {"patient_id": "PT00034", "age": 27, "gestational_age_weeks": 40.5, "gravida": 2, "para": 1, "risk_factors": ["Meconium-stained liquor"], "admission_date": "2025-12-28"},
+    "ctg_features": {"AC": 1.4, "FM": 11.2, "UC": 4.9, "DL": 2.4, "DS": 0.0, "DP": 0.3, "DR": 0.0, "LB": 144.2, "AC.1": 0.002, "FM.1": 0.016, "UC.1": 0.006, "DL.1": 0.003, "DS.1": 0.0, "DP.1": 0.001, "ASTV": 37.2, "MSTV": 1.1, "ALTV": 7.8, "MLTV": 6.2, "Width": 50.8, "Min": 115.6, "Max": 169.4, "Nmax": 4.8, "Nzeros": 0.38, "Mode": 150.3, "Mean": 140.8, "Median": 144.2, "Variance": 24.3, "Tendency": 0.0, "A": -0.4, "B": -0.6, "C": -0.9, "D": -0.7, "E": -0.9, "AD": -0.7, "DE": -0.8, "LD": -0.6, "FS": -0.8, "SUSP": 0.3, "CLASS": 7.0},
+    "nsp_class": 2, "nsp_label": "Suspect",
+    "clinical_narrative": "Patient PT00034, a 27-year-old G2P1 at 40.5 weeks, presented with spontaneous rupture of membranes revealing thick meconium-stained amniotic fluid. CTG showed baseline FHR 144 bpm with borderline variability (ASTV: 37ms). Variable decelerations noted with contractions, concerning for possible cord compression. Given presence of thick meconium and Category 2 CTG pattern, pediatric team notified for attendance at delivery. Continuous monitoring maintained with preparation for neonatal resuscitation if needed.",
+    "outcome": {"delivery_mode": "Assisted vaginal", "interventions": ["Continuous monitoring", "Amnioinfusion", "Pediatric team at delivery", "Oropharyngeal suctioning"], "apgar_1min": 7, "apgar_5min": 9, "birth_weight_grams": 3690, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2025-12-28T07:35:00", "data_source": "synthetic_enhanced"
+  },
+  {
+    "case_id": "CASE00035",
+    "demographics": {"patient_id": "PT00035", "age": 34, "gestational_age_weeks": 38.8, "gravida": 3, "para": 2, "risk_factors": ["None"], "admission_date": "2026-01-12"},
+    "ctg_features": {"AC": 3.6, "FM": 25.4, "UC": 3.0, "DL": 0.5, "DS": 0.0, "DP": 0.0, "DR": 0.0, "LB": 135.8, "AC.1": 0.005, "FM.1": 0.037, "UC.1": 0.004, "DL.1": 0.001, "DS.1": 0.0, "DP.1": 0.0, "ASTV": 54.9, "MSTV": 1.8, "ALTV": 12.6, "MLTV": 10.5, "Width": 70.8, "Min": 96.4, "Max": 164.8, "Nmax": 3.3, "Nzeros": 0.21, "Mode": 142.5, "Mean": 132.8, "Median": 135.8, "Variance": 16.5, "Tendency": 0.5, "A": 0.7, "B": -0.5, "C": -0.6, "D": -0.9, "E": -1.0, "AD": -0.4, "DE": -0.6, "LD": -1.0, "FS": -1.0, "SUSP": -1.0, "CLASS": 3.6},
+    "nsp_class": 1, "nsp_label": "Normal",
+    "clinical_narrative": "Patient PT00035, a 34-year-old G3P2 at 38.8 weeks gestation, admitted in active labor. Uncomplicated pregnancy with excellent antenatal care. CTG showed reassuring baseline FHR of 136 bpm with high variability (ASTV: 55ms). Frequent accelerations with fetal movements demonstrating excellent fetal reserves. No decelerations present. Labor progressing well with adequate contractions. Patient managing pain well with breathing techniques. Anticipated normal vaginal delivery.",
+    "outcome": {"delivery_mode": "Spontaneous vaginal", "interventions": ["Standard monitoring"], "apgar_1min": 9, "apgar_5min": 10, "birth_weight_grams": 3550, "nicu_admission": false, "maternal_complications": [], "neonatal_complications": []},
+    "timestamp": "2026-01-12T12:50:00", "data_source": "synthetic_enhanced"
+  }
+]

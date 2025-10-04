@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "description": "Clinical guidelines database schema for CTGenie - Evidence-based CTG interpretation and management protocols",
+  "sources": [
+    "ACOG Practice Bulletin No. 116: Management of Intrapartum Fetal Heart Rate Tracings",
+    "NICE Guidelines NG229: Fetal monitoring in labour",
+    "WHO Recommendations: Intrapartum care for a positive childbirth experience"
+  ],
+  "guideline_categories": [
+    {
+      "category": "ctg_pattern_interpretation",
+      "description": "Standard interpretation criteria for CTG patterns",
+      "guidelines": []
+    },
+    {
+      "category": "risk_stratification",
+      "description": "Risk assessment based on CTG patterns and maternal factors",
+      "guidelines": []
+    },
+    {
+      "category": "intervention_protocols",
+      "description": "Evidence-based management recommendations",
+      "guidelines": []
+    },
+    {
+      "category": "escalation_criteria",
+      "description": "When to escalate care or expedite delivery",
+      "guidelines": []
+    }
+  ]
+}

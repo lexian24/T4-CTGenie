@@ -1,0 +1,56 @@
+{
+  "model_type": "XGBoost",
+  "version": "1.0",
+  "trained_date": "2025-10-01T23:00:34.405010",
+  "n_features": 29,
+  "n_samples_train": 3969,
+  "n_samples_test": 426,
+  "test_accuracy": 0.9882629107981221,
+  "class_names": [
+    "Normal",
+    "Suspect",
+    "Pathological"
+  ],
+  "target_encoding": {
+    "0": "Normal",
+    "1": "Suspect",
+    "2": "Pathological"
+  },
+  "preprocessing_steps": [
+    "Remove missing values",
+    "Remove highly correlated features (>0.95)",
+    "SMOTE oversampling",
+    "StandardScaler normalization"
+  ],
+  "feature_names": [
+    "LBE",
+    "AC",
+    "FM",
+    "UC",
+    "ASTV",
+    "MSTV",
+    "ALTV",
+    "MLTV",
+    "DL",
+    "DS",
+    "DP",
+    "Width",
+    "Min",
+    "Max",
+    "Nmax",
+    "Nzeros",
+    "Mean",
+    "Variance",
+    "Tendency",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "AD",
+    "DE",
+    "LD",
+    "FS",
+    "SUSP"
+  ]
+}
